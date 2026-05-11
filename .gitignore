@@ -1,0 +1,17 @@
+node_modules/
+uploads/
+output/
+.DS_Store
+*.docx
+.env
+.env.local
+.env.*.local
+dist/
+build/
+.vscode/settings.json
+.idea/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
